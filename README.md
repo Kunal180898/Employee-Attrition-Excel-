@@ -1,4 +1,4 @@
 # Employee-Attrition-Excel-
 
-![image](https://github.com/user-attachments/assets/95a98d0a-d53b-471c-b24b-f42bf6294be6)
+![image](https://github.com/user-attachments/assets/6887fdb9-df19-4646-a6ee-354ff3b9a0f1)
 
